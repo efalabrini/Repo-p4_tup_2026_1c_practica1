@@ -1,0 +1,15 @@
+C:\Users\evr\VirtualBox VMs\Documents\TUP2\SEGUNDO CUATRI\PROGR 4\utn_tup_programacion4\clase 1\Repo-p4_tup_2026_1c_practica1\raña_evelyn\ej1\bin\Debug\net10.0\ej1.exe
+C:\Users\evr\VirtualBox VMs\Documents\TUP2\SEGUNDO CUATRI\PROGR 4\utn_tup_programacion4\clase 1\Repo-p4_tup_2026_1c_practica1\raña_evelyn\ej1\bin\Debug\net10.0\ej1.deps.json
+C:\Users\evr\VirtualBox VMs\Documents\TUP2\SEGUNDO CUATRI\PROGR 4\utn_tup_programacion4\clase 1\Repo-p4_tup_2026_1c_practica1\raña_evelyn\ej1\bin\Debug\net10.0\ej1.runtimeconfig.json
+C:\Users\evr\VirtualBox VMs\Documents\TUP2\SEGUNDO CUATRI\PROGR 4\utn_tup_programacion4\clase 1\Repo-p4_tup_2026_1c_practica1\raña_evelyn\ej1\bin\Debug\net10.0\ej1.dll
+C:\Users\evr\VirtualBox VMs\Documents\TUP2\SEGUNDO CUATRI\PROGR 4\utn_tup_programacion4\clase 1\Repo-p4_tup_2026_1c_practica1\raña_evelyn\ej1\bin\Debug\net10.0\ej1.pdb
+C:\Users\evr\VirtualBox VMs\Documents\TUP2\SEGUNDO CUATRI\PROGR 4\utn_tup_programacion4\clase 1\Repo-p4_tup_2026_1c_practica1\raña_evelyn\ej1\obj\Debug\net10.0\ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evr\VirtualBox VMs\Documents\TUP2\SEGUNDO CUATRI\PROGR 4\utn_tup_programacion4\clase 1\Repo-p4_tup_2026_1c_practica1\raña_evelyn\ej1\obj\Debug\net10.0\ej1.AssemblyInfoInputs.cache
+C:\Users\evr\VirtualBox VMs\Documents\TUP2\SEGUNDO CUATRI\PROGR 4\utn_tup_programacion4\clase 1\Repo-p4_tup_2026_1c_practica1\raña_evelyn\ej1\obj\Debug\net10.0\ej1.AssemblyInfo.cs
+C:\Users\evr\VirtualBox VMs\Documents\TUP2\SEGUNDO CUATRI\PROGR 4\utn_tup_programacion4\clase 1\Repo-p4_tup_2026_1c_practica1\raña_evelyn\ej1\obj\Debug\net10.0\ej1.csproj.CoreCompileInputs.cache
+C:\Users\evr\VirtualBox VMs\Documents\TUP2\SEGUNDO CUATRI\PROGR 4\utn_tup_programacion4\clase 1\Repo-p4_tup_2026_1c_practica1\raña_evelyn\ej1\obj\Debug\net10.0\ej1.sourcelink.json
+C:\Users\evr\VirtualBox VMs\Documents\TUP2\SEGUNDO CUATRI\PROGR 4\utn_tup_programacion4\clase 1\Repo-p4_tup_2026_1c_practica1\raña_evelyn\ej1\obj\Debug\net10.0\ej1.dll
+C:\Users\evr\VirtualBox VMs\Documents\TUP2\SEGUNDO CUATRI\PROGR 4\utn_tup_programacion4\clase 1\Repo-p4_tup_2026_1c_practica1\raña_evelyn\ej1\obj\Debug\net10.0\refint\ej1.dll
+C:\Users\evr\VirtualBox VMs\Documents\TUP2\SEGUNDO CUATRI\PROGR 4\utn_tup_programacion4\clase 1\Repo-p4_tup_2026_1c_practica1\raña_evelyn\ej1\obj\Debug\net10.0\ej1.pdb
+C:\Users\evr\VirtualBox VMs\Documents\TUP2\SEGUNDO CUATRI\PROGR 4\utn_tup_programacion4\clase 1\Repo-p4_tup_2026_1c_practica1\raña_evelyn\ej1\obj\Debug\net10.0\ej1.genruntimeconfig.cache
+C:\Users\evr\VirtualBox VMs\Documents\TUP2\SEGUNDO CUATRI\PROGR 4\utn_tup_programacion4\clase 1\Repo-p4_tup_2026_1c_practica1\raña_evelyn\ej1\obj\Debug\net10.0\ref\ej1.dll
