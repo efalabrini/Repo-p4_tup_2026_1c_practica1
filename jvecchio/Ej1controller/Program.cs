@@ -1,0 +1,30 @@
+var builder = WebApplication.CreateBuilder(args);
+
+// Controllers
+builder.Services.AddControllers();
+
+// OpenAPI (ya lo tenías)
+builder.Services.AddOpenApi();
+
+// 👇 Swagger
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+var app = builder.Build();
+
+if (app.Environment.IsDevelopment())
+{
+    app.MapOpenApi();
+
+    // 👇 Swagger UI
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+app.UseHttpsRedirection();
+
+app.UseAuthorization();
+
+app.MapControllers();
+
+app.Run();
